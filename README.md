@@ -73,4 +73,11 @@ Create a funnel chart .This chart helps to compare the sales performance of diff
 
 5)Preparing Dynamic Dashboard/ REPORT
 
+
+![image](https://github.com/neerajkumarreddy2000/Projects/assets/151948702/7add5e4a-b2a4-4211-9363-d2a48a866daa)
+
+![image](https://github.com/neerajkumarreddy2000/Projects/assets/151948702/f603aa00-c9c5-4071-94c4-6bc873278227)
+
+
+
    
