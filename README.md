@@ -1,7 +1,9 @@
 # DATA ANALYST PORTFOLIO PROJECT-PIZZA SALES ANALYSIS
 
-## STEPS INVOLVED IN THIS PROJECT
+## PART 1
 ## 1.SQL SERVER:
+
+### STEPS INVOLVED IN SQL SERVER
 
 1)Creating the database
 
@@ -54,8 +56,12 @@ Create a funnel chart .This chart helps to compare the sales performance of diff
 
    create a bar chart highlighting worst selling pizzas based on revenue,total quantity and total orders.
    helps to identify underforming pizzas..
+
+## PART 2   
    
 ## 2)POWER BI
+
+### STEPS INVOLVED IN POWER BI
 
 1.Connecting POWER BI to MS SQLSERVER
 
